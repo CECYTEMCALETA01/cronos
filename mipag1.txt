@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>MISION</TITLE>
+ </HEAD>
+  <BODY background="fondo.jpg">
+  <p align="center"><img height="30%" src="logotipocecytemcaleta.jpg"</p>
+   <center><H2><B>CECYTEM CALETA<H2></center>
+   <BR>
+    <BR>
+     <CENTER><H1>MISION</H1></CENTER>
+     <BR>
+     <BR>
+     <P>contribuir al desarrollo socioeconomico del estado del michoacan mediante la 
+        formacion de profecionistasdel nivel medio superior de calidad, en las areas que el 
+        estado requiere modernizar e impulsar con especial enfacis en una formacion 
+        armonica entre la teoria y su aplicacion practica, asi como en la precentacion de 
+        nuestros valores nacionales y culturales sustentado en una dinamica actualizacion  
+        de su planta de docentes administrativa.</p>
+    
+        <a href="index.htm">regresar a la pagina principal</a>
+
+     </BODY>
+     </HTML>|
